@@ -20,3 +20,4 @@ def binary_search(a,b):
 
 x = binary_search(1.6, 3)
 print(f"{x:.9f}")
+#RES: 2.278862660
