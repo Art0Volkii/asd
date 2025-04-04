@@ -15,3 +15,5 @@ def get_permutations(n, k, curr_perm, used):
 n, k = map(int, input().split())
 
 get_permutations(n, k, [], [False] * (n + 1))
+
+#RES: 100%
