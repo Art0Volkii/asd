@@ -31,3 +31,5 @@ for line in lines:
     fun(0, 0)
     
     print(f"sum:{max_sum}")
+
+#RES: 100%
